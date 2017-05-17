@@ -1,5 +1,5 @@
 # RabbitMQ中文
-
+# test
 此项目翻译RabbitMQ中文文档及相关中文译文
 
 ## 查看文档：
